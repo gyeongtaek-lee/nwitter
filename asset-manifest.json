@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/gyeongtaek-lee/nwitter/static/js/main.d50e8a27.chunk.js",
+    "main.js.map": "/gyeongtaek-lee/nwitter/static/js/main.d50e8a27.chunk.js.map",
+    "runtime-main.js": "/gyeongtaek-lee/nwitter/static/js/runtime-main.cb6f15ea.js",
+    "runtime-main.js.map": "/gyeongtaek-lee/nwitter/static/js/runtime-main.cb6f15ea.js.map",
+    "static/js/2.aec5da95.chunk.js": "/gyeongtaek-lee/nwitter/static/js/2.aec5da95.chunk.js",
+    "static/js/2.aec5da95.chunk.js.map": "/gyeongtaek-lee/nwitter/static/js/2.aec5da95.chunk.js.map",
+    "index.html": "/gyeongtaek-lee/nwitter/index.html",
+    "static/js/2.aec5da95.chunk.js.LICENSE.txt": "/gyeongtaek-lee/nwitter/static/js/2.aec5da95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb6f15ea.js",
+    "static/js/2.aec5da95.chunk.js",
+    "static/js/main.d50e8a27.chunk.js"
+  ]
+}
